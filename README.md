@@ -1,2 +1,2 @@
-# 6_MultiplayerPropHunt
+# MultiplayerPropHunt
  
